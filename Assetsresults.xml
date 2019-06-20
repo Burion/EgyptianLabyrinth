@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<users>
+  <user name="Player1">
+    <coins>14</coins>
+    <time>4min 35s</time>
+    <date>13.12.18</date>
+    <reason>Eaten by zombie</reason>
+  </user>
+  <user name="Burion">
+    <coins>12</coins>
+    <time>325s</time>
+  </user>
+  <user name="Burion">
+    <coins>12</coins>
+    <time>325s</time>
+    <date />
+  </user>
+  <user name="Burion">
+    <coins>12</coins>
+    <time>325s</time>
+    <date>12/13/2018</date>
+  </user>
+  <user name="Burion">
+    <coins>12</coins>
+    <time>325s</time>
+    <date>12/13/2018</date>
+  </user>
+  <user name="Burion">
+    <coins>12</coins>
+    <time>325s</time>
+    <date>12/13/2018</date>
+  </user>
+  <user name="Burion">
+    <coins>12</coins>
+    <time>325s</time>
+    <date>12/13/2018</date>
+  </user>
+  <user name="Burion">
+    <coins>12</coins>
+    <time>325s</time>
+    <date>12/13/2018</date>
+  </user>
+  <user name="Burion">
+    <coins>12</coins>
+    <time>325s</time>
+    <date>12/13/2018</date>
+  </user>
+  <user name="Burion">
+    <coins>12</coins>
+    <time>325s</time>
+    <date>12/13/2018</date>
+  </user>
+  <user name="Burion">
+    <coins>12</coins>
+    <time>325s</time>
+    <date>12/13/2018</date>
+  </user>
+  <user name="Burion">
+    <coins>12</coins>
+    <time>325s</time>
+    <date>12/13/2018</date>
+  </user>
+  <user name="Burion">
+    <coins>1</coins>
+    <time>7.91 s</time>
+    <date>12/13/2018</date>
+  </user>
+</users>
